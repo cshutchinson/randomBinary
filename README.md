@@ -1,3 +1,3 @@
 # RandomBinary
 
-Returns a random binary string. 
+Returns a random binary string.
