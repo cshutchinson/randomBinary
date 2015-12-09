@@ -15,5 +15,14 @@
   "license": "ISC",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cshutchinson/randomBinary.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cshutchinson/randomBinary/issues"
+  },
+  "homepage": "https://github.com/cshutchinson/randomBinary#readme"
 }
