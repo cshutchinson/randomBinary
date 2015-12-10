@@ -1,1 +1,3 @@
-console.log('test');
+randomString = require('./app.js');
+
+console.log(randomString());
