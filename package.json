@@ -1,6 +1,6 @@
 {
   "name": "randombinary",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "returns a function which produces a random binary string",
   "main": "app.js",
   "scripts": {
