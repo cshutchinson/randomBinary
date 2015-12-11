@@ -1,3 +1,4 @@
 randomString = require('./app.js');
 
-console.log(randomString());
+testBinary = randomString()+randomString()+randomString();
+return console.log('0x' + parseInt(testBinary, 2).toString(16));
